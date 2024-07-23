@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    
+    
+    <color name="color_focus">#5AC69C</color>
+    <color name="color_relax">#FE8EC4</color>
+    <color name="color_breath">#36ACE0</color>
+    <color name="text_color">#959595</color>
+    <color name="bar_select_color">#7f7f7f</color>
+</resources>
